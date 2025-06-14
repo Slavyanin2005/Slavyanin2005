@@ -6,11 +6,13 @@ I'm a student at **Polar State University** 🏫, majoring in **Information Syst
 - ❄️ **Fun fact**: I can debug code while surviving -40°C Arctic winters! (Perks of studying in the Far North 😉)  
 - 🎮 **Hobbies**: When not coding, I enjoy [gaming/hiking/photography/etc.]   
 
-## 🛠️ Tech Stack  
-**Languages**:  
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)  
+💻 Programming Languages
+
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="20" height="20"/> C++ - For high-performance applications and system programming
+
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="20" height="20"/> C# - For .NET development and Unity projects
+
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20" height="20"/> PostgreSQL - For database management and SQL operations
 
 **Databases**:  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
