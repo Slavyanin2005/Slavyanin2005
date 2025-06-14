@@ -1,16 +1,16 @@
 # Hello, I'm Vadik! 👋
 
-## 🚀 About Me
-I'm a passionate [Your Role, e.g., "Full-Stack Developer" or "Data Scientist"] who loves building efficient and scalable solutions.  
-- 🎓 **Education**: [Degree/Certificate] in [Field] from [University/Platform].  
-- 💡 **Interests**: [Tech/Non-Tech Interests, e.g., "Open-Source, AI, or Photography"].  
-- 🌱 **Currently Learning**: [e.g., "Rust, Cloud Architecture, or ML Ops"].  
+## 🚀 About Me  
+I'm a tech enthusiast and a student at **Zapolyarny State University** 🏫, majoring in **Information Systems and Technologies**.  
+- 💻 **Currently mastering**: C#, C++, PostgreSQL  
+- ❄️ **Fun fact**: I can debug code while surviving -30°C Arctic winters! (Perks of studying in the Far North 😉)  
+- 🎮 **Hobbies**: When not coding, I enjoy [gaming/hiking/photography/etc.]   
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack  
 **Languages**:  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)  
 
 **Frameworks & Tools**:  
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
