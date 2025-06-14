@@ -16,10 +16,7 @@ I'm a student at **Polar State University** 🏫, majoring in **Information Syst
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 
 ## 🔥 Projects
-1. **[Project Name](https://github.com/your/repo)** | ![Tech](https://img.shields.io/badge/Tech-Used-blue)  
-   ▶ Short description + key features.  
-2. **[Project Name](https://github.com/your/repo)** | ![Tech](https://img.shields.io/badge/Tech-Used-blue)  
-   ▶ Short description + key features.  
+![Loading](https://i.gifer.com/ZZ5H.gif)
 
 ## 📫 Let's Connect
 [![Discord](https://img.shields.io/badge/Join_My_Server-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/366151961671893002)
