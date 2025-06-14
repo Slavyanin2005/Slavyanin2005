@@ -1,7 +1,5 @@
 # Hello, I'm Vadik! :wave:
 
-![Monkey meme](https://media.tenor.com/5X5yWJkxQeIAAAAC/monkey-looking.gif)
-
 ## :rocket: About Me  
 I'm a student at **Polar State University** :school:, majoring in **Information Systems and Technologies**.  
 - :computer: **Currently mastering**: C#, C++, PostgreSQL  
