@@ -27,13 +27,8 @@ I'm a passionate [Your Role, e.g., "Full-Stack Developer" or "Data Scientist"] w
 2. **[Project Name](https://github.com/your/repo)** | ![Tech](https://img.shields.io/badge/Tech-Used-blue)  
    ▶ Short description + key features.  
 
-### 📊 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
-
 ### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youremail@domain.com)  
+[![Discord](https://img.shields.io/badge/Join_My_Server-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/366151961671893002)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ostafinskijvadim@gmail.com)  
 
 ⭐ **Fun Fact**: [A quirky fact, e.g., "I automate my coffee brewing!"]  
