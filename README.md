@@ -16,8 +16,8 @@ I'm a student at **Polar State University** 🏫, majoring in **Information Syst
 ![Loading](https://i.gifer.com/ZZ5H.gif)
 
 ## 📫 Contacts
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kavalski228)
-[![Discord](https://img.shields.io/badge/Join_My_Server-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/366151961671893002)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ostafinskijvadim@gmail.com)  
+- [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kavalski228)
+- [![Discord](https://img.shields.io/badge/Join_My_Server-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/366151961671893002)
+- [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ostafinskijvadim@gmail.com)  
 
 ⭐ **Fun Fact**: **I love herding reindeer.** 
