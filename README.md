@@ -1,9 +1,9 @@
 # Hello, I'm Vadik! 👋
 
 ## 🚀 About Me  
-I'm a tech enthusiast and a student at **Zapolyarny State University** 🏫, majoring in **Information Systems and Technologies**.  
+I'm a student at **Zapolyarny State University** 🏫, majoring in **Information Systems and Technologies**.  
 - 💻 **Currently mastering**: C#, C++, PostgreSQL  
-- ❄️ **Fun fact**: I can debug code while surviving -30°C Arctic winters! (Perks of studying in the Far North 😉)  
+- ❄️ **Fun fact**: I can debug code while surviving -40°C Arctic winters! (Perks of studying in the Far North 😉)  
 - 🎮 **Hobbies**: When not coding, I enjoy [gaming/hiking/photography/etc.]   
 
 ## 🛠️ Tech Stack  
