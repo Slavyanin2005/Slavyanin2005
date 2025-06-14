@@ -16,8 +16,11 @@ I'm a student at **Polar State University** 🏫, majoring in **Information Syst
 ![Loading](https://i.gifer.com/ZZ5H.gif)
 
 ## 📫 Contacts
-- [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kavalski228)
-- [![Discord](https://img.shields.io/badge/Join_My_Server-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/366151961671893002)
-- [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ostafinskijvadim@gmail.com)  
+<p style="margin-bottom: 0.8em;">
+<a href="https://t.me/kavalski228"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" width="120"></a></p>
+<p style="margin-bottom: 0.8em;">
+<a href="https://discord.com/users/366151961671893002"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" width="120"></a></p>
+<p style="margin-bottom: 0.8em;">
+<a href="mailto:ostafinskijvadim@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="120"></a></p>
 
 ⭐ **Fun Fact**: **I love herding reindeer.** 
