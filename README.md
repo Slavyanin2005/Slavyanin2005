@@ -15,20 +15,15 @@ I'm a student at **Polar State University** :school:, majoring in **Information 
 ## :fire: Projects
 ![Loading](https://i.gifer.com/ZZ5H.gif)
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Slavyanin&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slavyanin&layout=compact&theme=radical" alt="Top Languages">
+</p>
+
 ## 📫 Contacts
-<table>
-  <tr>
-    <td valign="middle">•</td>
-    <td valign="middle"><a href="https://t.me/kavalski228"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="28"></a></td>
-  </tr>
-  <tr>
-    <td valign="middle">•</td>
-    <td valign="middle"><a href="https://discord.com/users/366151961671893002"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="28"></a></td>
-  </tr>
-  <tr>
-    <td valign="middle">•</td>
-    <td valign="middle"><a href="mailto:ostafinskijvadim@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28"></a></td>
-  </tr>
-</table>
+- <a href="https://t.me/kavalski228"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="28"></a>
+- <a href="https://discord.com/users/366151961671893002"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="28"></a>
+- <a href="mailto:ostafinskijvadim@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28"></a>
 
 :star: **Fun Fact**: **I love herding reindeer.** 
