@@ -16,8 +16,19 @@ I'm a student at **Polar State University** :school:, majoring in **Information 
 ![Loading](https://i.gifer.com/ZZ5H.gif)
 
 ## 📫 Contacts
-- <a href="https://t.me/kavalski228"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="28"></a>
-- <a href="https://discord.com/users/366151961671893002"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="28"></a>
-- <a href="mailto:ostafinskijvadim@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28"></a>
+<table>
+  <tr>
+    <td valign="middle">•</td>
+    <td valign="middle"><a href="https://t.me/kavalski228"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="28"></a></td>
+  </tr>
+  <tr>
+    <td valign="middle">•</td>
+    <td valign="middle"><a href="https://discord.com/users/366151961671893002"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="28"></a></td>
+  </tr>
+  <tr>
+    <td valign="middle">•</td>
+    <td valign="middle"><a href="mailto:ostafinskijvadim@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28"></a></td>
+  </tr>
+</table>
 
 :star: **Fun Fact**: **I love herding reindeer.** 
