@@ -1,6 +1,6 @@
 # Hello, I'm Vadik! :wave:
 
-[![Monkey Meme](https://img.shields.io/badge/Click_for_GIF-FF5722?style=for-the-badge)](https://tenor.com/ru/view/обезьяна-мем-gif-11456815743457019808)
+![Working GIF Example](https://media.tenor.com/5X5yWJkxQeIAAAAC/monkey-looking.gif)
 
 ## :rocket: About Me  
 I'm a student at **Polar State University** :school:, majoring in **Information Systems and Technologies**.  
