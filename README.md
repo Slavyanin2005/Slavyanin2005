@@ -16,8 +16,10 @@ I'm a student at **Polar State University** :school:, majoring in **Information 
 ![Loading](https://i.gifer.com/ZZ5H.gif)
 
 ## 📊 GitHub Stats
-[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Slavyanin2005&theme=github_dark)](https://github.com/Slavyanin2005)
-[![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Slavyanin2005&theme=github_dark)](https://github.com/Slavyanin2005?tab=repositories)
+[![Commits](https://badgen.net/github/commits/Slavyanin2005)](https://github.com/Slavyanin2005)
+[![PRs](https://badgen.net/github/prs/Slavyanin2005)](https://github.com/Slavyanin2005/pulls)
+[![Issues](https://badgen.net/github/open-issues/Slavyanin2005)](https://github.com/Slavyanin2005/issues)
+[![Repos](https://badgen.net/github/repos/Slavyanin2005)](https://github.com/Slavyanin2005?tab=repositories)
 
 ## 📫 Contacts
 - <a href="https://t.me/kavalski228"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="28"></a>
