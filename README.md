@@ -16,13 +16,14 @@ I'm a student at **Polar State University** :school:, majoring in **Information 
 ![Loading](https://i.gifer.com/ZZ5H.gif)
 
 ## 📊 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Slavyanin&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/Slavyanin)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Slavyanin&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/Slavyanin)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Slavyanin&layout=compact&theme=radical&hide_border=true&hide=html,css)](https://github.com/Slavyanin)
+[![GitHub Activity](https://github-readme-streak-stats.herokuapp.com/?user=Slavyanin&theme=dark)](https://github.com/Slavyanin)
 
-[![GitHub Activity](https://github-readme-streak-stats.herokuapp.com/?user=Slavyanin&theme=radical&hide_border=true)](https://github.com/Slavyanin)
+[![PRs и Issues](https://img.shields.io/badge/PRs-20-blue?style=flat-square)]()
+[![Issues](https://img.shields.io/badge/Issues-15-green?style=flat-square)]()
 
-[![Metrics](https://metrics.lecoq.io/Slavyanin?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&isocalendar.duration=half-year&languages.colors=github&languages.threshold=0%25&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner)](https://github.com/Slavyanin)
+[![Detailed Metrics](https://metrics.lecoq.io/Slavyanin?template=classic&isocalendar=1&languages=1&activity=1&followup=1&activity.limit=5&activity.days=14&activity.filter=all)](https://github.com/Slavyanin)
 
 ## 📫 Contacts
 - <a href="https://t.me/kavalski228"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="28"></a>
