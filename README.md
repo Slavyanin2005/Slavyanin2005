@@ -16,7 +16,13 @@ I'm a student at **Polar State University** :school:, majoring in **Information 
 ![Loading](https://i.gifer.com/ZZ5H.gif)
 
 ## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Slavyanin&show_icons=true&theme=dark&icon_color=ffffff&text_color=ffffff&title_color=ffffff&include_all_commits=true&count_private=true" alt="GitHub Stats">
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Slavyanin&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/Slavyanin)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Slavyanin&layout=compact&theme=radical&hide_border=true&hide=html,css)](https://github.com/Slavyanin)
+
+[![GitHub Activity](https://github-readme-streak-stats.herokuapp.com/?user=Slavyanin&theme=radical&hide_border=true)](https://github.com/Slavyanin)
+
+[![Metrics](https://metrics.lecoq.io/Slavyanin?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&isocalendar.duration=half-year&languages.colors=github&languages.threshold=0%25&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner)](https://github.com/Slavyanin)
 
 ## 📫 Contacts
 - <a href="https://t.me/kavalski228"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="28"></a>
