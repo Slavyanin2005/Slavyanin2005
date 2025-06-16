@@ -17,10 +17,13 @@ I'm a student at **Polar State University** :school:, majoring in **Information 
 
 ## 📊 GitHub Stats
 
-[![Total Commits](https://badgen.net/github/commits/Slavyanin2005)](https://github.com/Slavyanin2005)
-[![Repos](https://badgen.net/github/repos/Slavyanin2005)](https://github.com/Slavyanin2005?tab=repositories)
-[![PRs](https://badgen.net/github/prs/Slavyanin2005)](https://github.com/Slavyanin2005/pulls)
-[![Issues](https://badgen.net/github/issues/Slavyanin2005)](https://github.com/Slavyanin2005/issues)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Slavyanin2005&theme=github_dark" alt="Profile Details">
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Slavyanin2005&theme=github_dark" alt="Repos per Language" style="height: 180px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Slavyanin2005&theme=github_dark&utcOffset=3" alt="Commits by Time" style="height: 180px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Slavyanin2005&theme=github_dark" alt="Most Commit Language" style="height: 180px;">
+</div>
 
 ## 📫 Contacts
 - <a href="https://t.me/kavalski228"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="28"></a>
