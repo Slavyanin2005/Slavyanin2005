@@ -15,12 +15,12 @@ I'm a student at **Polar State University** :school:, majoring in **Information 
 ## :fire: Projects
 ![Loading](https://i.gifer.com/ZZ5H.gif)
 
-## 📊 GitHub Stats
-  <!-- Статистика -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Slavyanin2005&show_icons=true&theme=black&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&include_all_commits=true&count_private=true&include_forks=true&hide_title=true&disable_animations=1&cache_seconds=0&random=1" alt="GitHub Stats">
+## 📊 GitHub Stats (Live)
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Slavyanin2005&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&disable_animations=true" alt="Stats">
   
-  <!-- Языки -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slavyanin2005&layout=compact&theme=black&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=true&cache_seconds=10" alt="Top Languages">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slavyanin2005&layout=compact&theme=dark&hide_border=true&exclude_repo=Slavyanin2005&hide=html,css,scss" alt="Top Languages">
 </div>
 
 
