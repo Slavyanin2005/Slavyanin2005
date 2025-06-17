@@ -17,7 +17,7 @@ I'm a student at **Polar State University** :school:, majoring in **Information 
 
 ## 📊 GitHub Stats
   <!-- Статистика -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Slavyanin2005&show_icons=true&theme=black&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&include_all_commits=true&count_private=true&hide_title=true&disable_animations=1&cache_seconds=10" alt="Stats">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Slavyanin2005&show_icons=true&theme=black&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&include_all_commits=true&count_private=true&include_forks=true&hide_title=true&disable_animations=1&cache_seconds=0&random=1" alt="GitHub Stats">
   
   <!-- Языки -->
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slavyanin2005&layout=compact&theme=black&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=true&cache_seconds=10" alt="Top Languages">
