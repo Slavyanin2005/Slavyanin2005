@@ -17,8 +17,7 @@ I'm a student at **Polar State University** :school:, majoring in **Information 
 
 ## 📊 GitHub Stats (Live)
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Slavyanin2005&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&disable_animations=true" alt="Stats">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Slavyanin2005&show_icons=true&theme=black&hide_border=true&include_all_commits=true&count_private=true&disable_animations=true" alt="Stats">
   
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slavyanin2005&layout=compact&theme=dark&hide_border=true&exclude_repo=Slavyanin2005&hide=html,css,scss" alt="Top Languages">
 </div>
