@@ -16,17 +16,10 @@ I'm a student at **Polar State University** :school:, majoring in **Information 
 ![Loading](https://i.gifer.com/ZZ5H.gif)
 
 ## 📊 GitHub Stats (Graphs + Numbers)
-
-<div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Slavyanin2005&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_title=true" alt="Stats">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slavyanin2005&layout=compact&theme=dark&hide_title=true" alt="Top Langs">
 </div>
-
-📌 **Цифры:**  
-• 🗃️ Репозитории: [![Repos](https://badgen.net/github/repos/Slavyanin2005?color=268bd2)](https://github.com/Slavyanin2005?tab=repositories)  
-• 💾 Коммиты: [![Commits](https://badgen.net/github/commits/Slavyanin2005?color=2aa198)](https://github.com/Slavyanin2005)  
-• 🌟 Звёзды: [![Stars](https://badgen.net/github/stars/Slavyanin2005?color=b58900)](https://github.com/Slavyanin2005)  
-• 🔄 PR: [![PRs](https://badgen.net/github/prs/Slavyanin2005?color=6c71c4)](https://github.com/Slavyanin2005/pulls)  
+https://badgen.net/github/prs/Slavyanin2005?color=6c71c4)](https://github.com/Slavyanin2005/pulls)  
 </div>
 
 ## 📫 Contacts
