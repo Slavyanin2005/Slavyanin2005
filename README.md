@@ -16,10 +16,7 @@ I'm a student at **Polar State University** :school:, majoring in **Information 
 ![Loading](https://i.gifer.com/ZZ5H.gif)
 
 ## 📊 GitHub Stats
-  <!-- Чёрная статистика -->
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Slavyanin2005&show_icons=true&theme=black&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&include_all_commits=true&count_private=true&hide_title=true" alt="Stats">
-  
-  <!-- Языки в репозиториях (как раньше) -->
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Slavyanin2005&theme=github_dark" alt="Top Languages">
 </div>
 
