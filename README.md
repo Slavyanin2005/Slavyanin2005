@@ -18,9 +18,7 @@ I'm a student at **Polar State University** :school:, majoring in **Information 
 ## 📊 GitHub Stats (Graphs + Numbers)
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Slavyanin2005&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_title=true" alt="Stats">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slavyanin2005&layout=compact&theme=dark&hide_title=true" alt="Top Langs">
-</div>
-https://badgen.net/github/prs/Slavyanin2005?color=6c71c4)](https://github.com/Slavyanin2005/pulls)  
-</div>
+
 
 ## 📫 Contacts
 - <a href="https://t.me/kavalski228"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="28"></a>
