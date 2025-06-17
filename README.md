@@ -16,11 +16,8 @@ I'm a student at **Polar State University** :school:, majoring in **Information 
 ![Loading](https://i.gifer.com/ZZ5H.gif)
 
 ## 📊 GitHub Stats
-  <!-- Основная статистика в чёрном стиле -->
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Slavyanin2005&theme=vision-friendly-dark)
-
-  <!-- Языки в таком же стиле -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slavyanin2005&layout=compact&theme=black&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true" alt="Top Languages">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Slavyanin2005&theme=black&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Slavyanin2005&layout=compact&theme=black&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
 
 
 ## 📫 Contacts
