@@ -16,13 +16,11 @@ I'm a student at **Polar State University** :school:, majoring in **Information 
 ![Loading](https://i.gifer.com/ZZ5H.gif)
 
 ## 📊 GitHub Stats
-<div align="center">
-  <a href="https://github.com/Slavyanin2005?tab=repositories">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Slavyanin2005&show_icons=true&theme=black&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&include_all_commits=true&count_private=true&hide_title=true&disable_animations=1&random=${{ github.run_id }}" alt="Stats">
-  </a>
-  <a href="https://github.com/Slavyanin2005?tab=repositories">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slavyanin2005&layout=compact&theme=black&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=true&disable_animations=1&random=${{ github.run_id }}" alt="Top Languages">
-  </a>
+  <!-- Статистика -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Slavyanin2005&show_icons=true&theme=black&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&include_all_commits=true&count_private=true&hide_title=true&disable_animations=1&cache_seconds=10" alt="Stats">
+  
+  <!-- Языки -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slavyanin2005&layout=compact&theme=black&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=true&cache_seconds=10" alt="Top Languages">
 </div>
 
 
