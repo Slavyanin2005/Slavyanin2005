@@ -15,13 +15,19 @@ I'm a student at **Polar State University** :school:, majoring in **Information 
 ## :fire: Projects
 ![Loading](https://i.gifer.com/ZZ5H.gif)
 
-## 📊 GitHub Stats (Plain Numbers)
+## 📊 GitHub Stats (Graphs + Numbers)
 
-🔢 **Public Repos:** [![Repos](https://badgen.net/github/repos/Slavyanin2005?color=blue)](https://github.com/Slavyanin2005?tab=repositories)  
-💾 **Total Commits:** [![Commits](https://badgen.net/github/commits/Slavyanin2005?color=green)](https://github.com/Slavyanin2005)  
-🌟 **Stars Earned:** [![Stars](https://badgen.net/github/stars/Slavyanin2005?color=yellow)](https://github.com/Slavyanin2005)  
-🔄 **Pull Requests:** [![PRs](https://badgen.net/github/prs/Slavyanin2005?color=purple)](https://github.com/Slavyanin2005/pulls)  
-⚠️ **Open Issues:** [![Issues](https://badgen.net/github/open-issues/Slavyanin2005?color=red)](https://github.com/Slavyanin2005/issues)
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Slavyanin2005&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_title=true" alt="Stats">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slavyanin2005&layout=compact&theme=dark&hide_title=true" alt="Top Langs">
+</div>
+
+📌 **Цифры:**  
+• 🗃️ Репозитории: [![Repos](https://badgen.net/github/repos/Slavyanin2005?color=268bd2)](https://github.com/Slavyanin2005?tab=repositories)  
+• 💾 Коммиты: [![Commits](https://badgen.net/github/commits/Slavyanin2005?color=2aa198)](https://github.com/Slavyanin2005)  
+• 🌟 Звёзды: [![Stars](https://badgen.net/github/stars/Slavyanin2005?color=b58900)](https://github.com/Slavyanin2005)  
+• 🔄 PR: [![PRs](https://badgen.net/github/prs/Slavyanin2005?color=6c71c4)](https://github.com/Slavyanin2005/pulls)  
+</div>
 
 ## 📫 Contacts
 - <a href="https://t.me/kavalski228"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="28"></a>
